@@ -66,11 +66,9 @@ Flow Navigation (Screen to Screen)
 
 - Congrats screen
   =>Coupon website
-[list second screen here]
-[list screen navigation here]
-...
+  
 Wireframes
-[Add picture of your hand sketched wireframes in this section] 
+<img="IMG_20251103_235859786.jpg">
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype

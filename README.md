@@ -68,7 +68,7 @@ Flow Navigation (Screen to Screen)
   =>Coupon website
   
 Wireframes
-<img="IMG_20251103_235859786.jpg">
+<img src="IMG_20251103_235859786.jpg" width=600>
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype

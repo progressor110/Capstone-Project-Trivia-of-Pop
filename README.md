@@ -16,7 +16,7 @@ This app tests user's pop culture knowledge by having you choose from the answer
 - Market: The user base will be possibly those who grew up on pop culture and have seen these books, movies, or games from the 80s to the 2000s. It can be about a hundred people playing this app. This app provides knowledge to a niche group of people who want to know about pop culture and what entertainment they haven't seen yet. The audience for this app can up to ages everyone ten and up, along with those who have seen these pop culture involvements.
 - Habit: The average user will use it to test their knowledge on pop and to see if there any pop culture that they haven't experienced to see what can be their next movie or series to watch, book to read, or game to play. The average user will most likely consume the app rather than create it.
 - Scope: The scope of this app might take a little longer than four weeks to make, since I'm dealing with impoertant schoolwork from all my courses. A stripped down version of this will still be interesting because at the end of the day I'm still learning how to make an app, not making a perfect app. It's basically supposed to be a simple trivia game for audience to enjoy and learn about different pieces of entertainment that people from the 80s to the 2000s have experienced. I'm not fully sure of what questions I'll ask, but it'll be surrounding movies, books, and games.
-
+##Sprints:
 
 ## Product Spec
 

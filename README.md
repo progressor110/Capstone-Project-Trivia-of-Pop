@@ -21,7 +21,7 @@ This app tests user's pop culture knowledge by having you choose from the answer
 - Milestone 2:
 - [X] Connect to a public API
 - [X] Use at least one enum in your app’s logic.
-- [ ] Include common UIKit components (e.g., UILabel, UIButton).
+- [X] Include common UIKit components (e.g., UILabel, UIButton).
 - [X] Use diverse view controllers NavigationController, UITableViewController, UITabbarController. At least one container View Controller.
 - [X] Build the UI with Interface Builder (storyboards). 
 - Milestone 3:

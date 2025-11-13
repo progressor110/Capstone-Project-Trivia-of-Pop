@@ -23,7 +23,7 @@ This app tests user's pop culture knowledge by having you choose from the answer
 - [X] At least one Enum
 - [X] Use diverse view controllers NavigationController, UITableViewController, UITabbarController. At least one container View Controller.
 - [X] Build the UI with Interface Builder (storyboards). 
-Milestone 3:
+- Milestone 3:
 - [] At least one Closure
 - [] Pass data between view controllers
 Milestone 4:

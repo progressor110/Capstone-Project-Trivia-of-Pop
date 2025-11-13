@@ -18,19 +18,16 @@ This app tests user's pop culture knowledge by having you choose from the answer
 - Scope: The scope of this app might take a little longer than four weeks to make, since I'm dealing with impoertant schoolwork from all my courses. A stripped down version of this will still be interesting because at the end of the day I'm still learning how to make an app, not making a perfect app. It's basically supposed to be a simple trivia game for audience to enjoy and learn about different pieces of entertainment that people from the 80s to the 2000s have experienced. I'm not fully sure of what questions I'll ask, but it'll be surrounding movies, books, and games.
 
 ## Sprints:
-Milestone 2:
-[X] Connect to a public API
-[X] At least one Enum
-[X] Use diverse view controllers NavigationController, UITableViewController, UITabbarController. At least one container View Controller.
-[X] Build the UI with Interface Builder (storyboards). 
+- Milestone 2:
+- [X] Connect to a public API
+- [X] At least one Enum
+- [X] Use diverse view controllers NavigationController, UITableViewController, UITabbarController. At least one container View Controller.
+- [X] Build the UI with Interface Builder (storyboards). 
 Milestone 3:
-[] At least one Closure
-[] Pass data between view controllers
-[]
-[]
-[]
+- [] At least one Closure
+- [] Pass data between view controllers
 Milestone 4:
-[] 4-minute presentation
+- [] 4-minute presentation
 ## Product Spec
 
 1. User Stories (Required and Optional)

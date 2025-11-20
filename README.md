@@ -25,10 +25,15 @@ This app tests user's pop culture knowledge by having you choose from the answer
 - [X] Use diverse view controllers NavigationController, UITableViewController, UITabbarController. At least one container View Controller.
 - [X] Build the UI with Interface Builder (storyboards). 
 - Milestone 3:
-- [] At least one Closure
-- [] Pass data between view controllers
+- [X] At least one Closure
+- [ ] Show usage of protocols
+- [ ] Display the fetched data in the app’s UI.
+- [ ] Pass data between view controllers
+- [ ] Save at least one piece of data locally.
+- [ ] Retrieve and display this data when the app launches or when appropriate.
+- [ ] Use Autolayout and appropriate constraints to verify views are positioned appropriately.
 Milestone 4:
-- [] 4-minute presentation
+- [ ] 4-minute presentation
 ## Product Spec
 
 1. User Stories (Required and Optional)
